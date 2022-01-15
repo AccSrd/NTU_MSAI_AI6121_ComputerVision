@@ -28,6 +28,8 @@ This repository should only be used for reasonable academic discussions. I, the 
 
 The projects of this course consist of **two individual Assignments**, **one individual Literature Review**, and **one group Project**. The topic and score of the assignment are shown below. Since multiple people complete the group work, I do not have the right to disclose the report, others' codes, and grades individually so that the relevant parts will be hidden, and the group project only presents part of the code finished by myself.
 
+In addition, the generated output image is not given in the file in order to save space since all the source code has been provided. Data are uploaded after all output folders are emptied.
+
 Type | Topic | Grade
 ------------ | ------------- | ---
 Assignment 1 | Histogram Equalization | 20.0 / 20.0
