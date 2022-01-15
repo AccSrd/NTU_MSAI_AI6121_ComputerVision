@@ -14,7 +14,7 @@ https://ts.ntu.edu.sg/sites/intranet/dept/tlpd/ai/Pages/default.aspx
 
 https://ts.ntu.edu.sg/sites/policyportal/new/Documents/All%20including%20NIE%20staff%20and%20students/Student%20Academic%20Integrity%20Policy.pdf
 
-    If you think the professor are easy to fool, think again.
+    If you think the professor is easy to fool, think again.
 
 ---
 ### **====== D I S C L A I M E R ======**
