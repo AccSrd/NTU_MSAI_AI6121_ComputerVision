@@ -25,7 +25,7 @@ This repository should only be used for reasonable academic discussions. I, the 
 ---
 ---
 ### **====== I N T R O D U C T I O N ======**
-**[AI6121] Computer Vision** is an elective course of Master of Science in Artificial Intelligence Graduate Programme **(MSAI)**, School of Computer Science and Engineering **(SCSE)**, Nanyang Technological University **(NTU)**, Singapore. The repository corresponds to the AI6126 of **Semester 1, AY2021-2022**, starting from 08/2021. **The instructor of this course is Prof. Lu Shijian.**
+**[AI6121] Computer Vision** is an elective course of Master of Science in Artificial Intelligence Graduate Programme **(MSAI)**, School of Computer Science and Engineering **(SCSE)**, Nanyang Technological University **(NTU)**, Singapore. The repository corresponds to the AI6121 of **Semester 1, AY2021-2022**, starting from 08/2021. **The instructor of this course is Prof. Lu Shijian.**
 
 The projects of this course consist of **two individual Assignments**, **one individual Literature Review**, and **one group Project**. The topic and score of the assignment are shown below. Since multiple people complete the group work, I do not have the right to disclose the report, others' codes, and grades individually so that the relevant parts will be hidden, and the group project only presents part of the code and report finished by myself.
 
