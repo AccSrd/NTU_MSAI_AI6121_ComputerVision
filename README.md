@@ -2,6 +2,8 @@
 
 ### **====== I M P O R T A N T ======**
 
+2023/11/08 Delete handouts and sample images
+
 The content in this repository should exclusively be utilized in sharing solutions for projects, communicating ideas for related problems, and references to similar assignments. If you are a student facing an assignment with the same or similar topics, you can use this repository as a reference, while the final report should include the citations of the repository. If you submit an assignment without proper acknowledgment after referring to this repository, you may be considered **PLAGIARISM** by your instructor, and the author will not pay **ANY** responsibility for this. Please refer to your teacher's and your school's instructions for the determination of academic integrity.
 
 Moreover, if you are taking the AI6121 course, do not be stupid. You can utilize the materials here as a reference to construct your own assignment and reflect the citation to this repository in the final report. **If you copy the code without citing it, you have violated NTU's academic integrity and are involved in plagiarism.**
